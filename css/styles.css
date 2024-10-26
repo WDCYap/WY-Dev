@@ -1,0 +1,92 @@
+body {
+  background-color: #1b1b1b;
+  color: #d4d4d4;
+  font-family: "Roboto Mono", monospace;
+  padding-top: 56px;
+}
+
+.navbar {
+  background-color: #0f0f0f;
+}
+
+.navbar-brand,
+.nav-link {
+  color: #d4d4d4 !important;
+}
+
+.navbar-brand:hover,
+.nav-link:hover {
+  color: #ffffff !important;
+}
+
+header {
+  background-color: #131313;
+  padding: 50px 0;
+  border-bottom: 1px solid #d4d4d4;
+}
+
+h1,
+p {
+  color: #d4d4d4;
+}
+
+.section-title {
+  color: #b1b1b1;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 1.5rem;
+  margin-bottom: 30px;
+  border-bottom: 1px solid #d4d4d4;
+  display: inline-block;
+  padding-bottom: 5px;
+}
+
+section {
+  padding: 50px 0;
+}
+
+#experience,
+#skills {
+  background-color: #1c1c1c;
+  padding: 60px 0;
+}
+
+.card {
+  background-color: #292929;
+  border: none;
+  border-radius: 0;
+}
+
+.card-body {
+  color: #d4d4d4;
+}
+
+.skill {
+  padding: 15px;
+  background-color: #222;
+  border: 1px solid #4a4a4a;
+  margin-bottom: 10px;
+}
+
+.skill h4 {
+  color: #d4d4d4;
+}
+
+a {
+  color: #8c8c8c;
+}
+
+a:hover {
+  color: #ffffff;
+}
+
+footer {
+  background-color: #0f0f0f;
+  color: #8c8c8c;
+}
+
+.profile-img {
+  width: 150px;
+  border-radius: 50%;
+  border: 2px solid #d4d4d4;
+}
