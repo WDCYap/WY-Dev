@@ -1,3 +1,14 @@
 {
-  "skills": ["ReactJS", "Bootstrap", "JavaScript", "CSS"]
+  "skills": ["ReactJS", "Bootstrap", "JavaScript", "CSS", "MySQL"],
+  "learning": [
+    "React Native",
+    "TypeScript",
+    "NodeJS",
+    "Deno 2",
+    "Laravel",
+    "Rust",
+    "Python",
+    "MongoDB",
+    "Flutter"
+  ]
 }

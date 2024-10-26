@@ -1,0 +1,19 @@
+{
+  "projects": [
+    {
+      "title": "Project 1",
+      "tools": ["Tool 1", "Tool 2", "Tool 3"],
+      "description": "Placeholder"
+    },
+    {
+      "title": "Project 2",
+      "tools": ["Tool 1", "Tool 2", "Tool 3"],
+      "description": "Placeholder"
+    },
+    {
+      "title": "Project 3",
+      "tools": ["Tool 1", "Tool 2", "Tool 3"],
+      "description": "Placeholder"
+    }
+  ]
+}
